@@ -1,2 +1,2 @@
-# metasmakauskas.github.io
+# Metas Makauskas
 Kirpėjo specialybės studentas.
